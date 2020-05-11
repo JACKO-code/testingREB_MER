@@ -7,6 +7,7 @@ class Familie{
     let yourWish: any = 'my name is jackson';
     const mylength:any = myString.length;
     let dadsf: any[]
+    let xyzz: any = 2423413241;
     let nsa: Array<string>;
     let isGod: boolean;
       let familie = [{ name: "jannis", age: 27, type: "male" }, {}, {}];
